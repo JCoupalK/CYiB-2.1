@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -33,7 +33,6 @@ public class PlayerMovement : MonoBehaviour
 
     }
     
-
     private void OnCollisionStay()
     {
         if (!isGrounded && rb.velocity.y == 0)
@@ -72,15 +71,10 @@ public class PlayerMovement : MonoBehaviour
             }
         }
             
-        
-
-
     }
 
     private void OnTriggerEnter(Collider other)
     {
         spawnManager.SpawnTriggerEntered();
     }
-
-
 }
