@@ -17,7 +17,6 @@ public class ScoreManager : MonoBehaviour
             scoreText.text = player.position.z.ToString("0");
         }
     }
-
     
 }
 
