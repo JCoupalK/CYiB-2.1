@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f227194635b9091429836a01aeb97c9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - collision: {fileID: 9102155254324224441, guid: ffb5678b2a5746940a1801182e59bf40,
+      type: 3}
+  - player: {fileID: 9102155254324224442, guid: ffb5678b2a5746940a1801182e59bf40,
+      type: 3}
+  - scoreText: {fileID: 400543481918404810, guid: 75ec34262898c234a8efda71f18f5b74,
+      type: 3}
+  - Score: {fileID: 7842312290244174481, guid: 796952c139637ac47a9cb7c258271611, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
