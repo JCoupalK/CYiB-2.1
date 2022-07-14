@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
@@ -10,9 +10,8 @@ public class HighScore : MonoBehaviour
 
 	void Start()
 	{		
-
 		int.TryParse(score.text, out number);	
-
+		
 		highScore.text = ZPlayerPrefs.GetInt("HighScore", 0).ToString();
 	}
 
@@ -25,7 +24,5 @@ public class HighScore : MonoBehaviour
 			ZPlayerPrefs.SetInt("HighScore", number);
 		}
 	}
-
-
 
 }
