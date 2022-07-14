@@ -3,4 +3,6 @@
 
 **If you wanna play it it's at: https://jordancup.itch.io/cover-yourself-in-blood**
 
-This code will probably not be used but I wanted to make it open anyway for archive purposes.
+This code will probably not be used since it's kinda spaghetti (I swear I improved) but I wanted to make it open anyway for archive purposes.
+
+I missed the one year anniversary by a long shot but I'm making it up for it 5 months later.
