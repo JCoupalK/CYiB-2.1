@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    // This is a reference to the Rigidbody component called "rb"
 
     public float forwardForce = 735f;
     public float sidewayForce = 60f;
