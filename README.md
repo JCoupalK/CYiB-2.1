@@ -1,5 +1,5 @@
 # CYiB-2.1
-## The source code of the video game *Cover Yourself in Blood*, my first publicly released video game. Released on February 7, 2021.
+## The source code of the video game *Cover Yourself in Blood* made on the Unity 3D engine, my first publicly released video game. Released on February 7, 2021.
 
 **If you wanna play it it's at: https://jordancup.itch.io/cover-yourself-in-blood**
 
